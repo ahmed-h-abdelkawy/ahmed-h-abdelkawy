@@ -14,7 +14,7 @@ Empowering users, building scalable cross-platform systems, and translating comp
 * 🧠 **Continuous Learning:** Deepening knowledge in software engineering principles, Data Structures, Algorithms, and clean code standards.
 * 🔭 **Currently exploring:** Advanced system architecture, RESTful API optimization with Retrofit & Dio, and integrating backend services with Firebase.
 * 💬 **Ask me about:** Flutter, Dart, Clean Architecture, Cubit State Management, Firebase Firestore, and mobile UI/UX implementation.
-* ⚡ **Fun fact:** I hold an ACCA DipIFR certification with a score of 93/100, combining a strong analytical mindset with software development!
+* ⚡ **Fun fact:** Graduate of Cairo University's Faculty of Commerce (Financial Accounting major) with a strong academic background in financial accounting and corporate finance!
 
 ---
 
