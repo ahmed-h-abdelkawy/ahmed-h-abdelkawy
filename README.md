@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Hossam
 
-<!--
-**ahmed-h-abdelkawy/ahmed-h-abdelkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Mobile Application Developer | Software Engineer
 
-Here are some ideas to get you started:
+Empowering users, building scalable cross-platform systems, and translating complex requirements into clean, production-ready mobile applications. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Badge](https://img.shields.io/badge/FOLLOW-%40AHMED-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-h-abdelkawy) [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+### 🚀 About Me
+
+* 💻 **Currently working on:** Building and scaling modern cross-platform mobile apps using Flutter & Dart, with a heavy focus on Clean Architecture, MVVM, and robust state management.
+* 🧠 **Continuous Learning:** Deepening knowledge in software engineering principles, Data Structures, Algorithms, and clean code standards.
+* 🔭 **Currently exploring:** Advanced system architecture, RESTful API optimization with Retrofit & Dio, and integrating backend services with Firebase.
+* 💬 **Ask me about:** Flutter, Dart, Clean Architecture, Cubit State Management, Firebase Firestore, and mobile UI/UX implementation.
+* ⚡ **Fun fact:** I hold an ACCA DipIFR certification with a score of 93/100, combining a strong analytical mindset with software development!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+* **Frameworks & Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+* **Architecture & State Management:** ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=&logoColor=white) ![Cubit](https://img.shields.io/badge/Cubit-F7DF1E?style=for-the-badge&logo=&logoColor=black) ![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=&logoColor=white)
+* **Networking & Tools:** ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-EF2D5E?style=for-the-badge&logo=&logoColor=white) ![Dio](https://img.shields.io/badge/Dio-2596BE?style=for-the-badge&logo=&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌟 Featured Projects & Initiatives
+
+* **[E-Commerce App](https://github.com/ahmed-h-abdelkawy/e-commerce-app):** Built a full-featured E-Commerce mobile application utilizing Flutter, Dart, Cubit State Management, and Firebase Firestore.
+* **[Food Delivery App (Foodak)](https://github.com/ahmed-h-abdelkawy/foodak-food-delivery-app):** Developed a responsive cross-platform food delivery app focused on smooth user navigation and clean UI components.
+* **[News App](https://github.com/ahmed-h-abdelkawy/news-app):** Created using Feature-First Clean Architecture, integrating NewsAPI via Retrofit & Dio, with Cubit for state management and real-time search.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-h-abdelkawy&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-h-abdelkawy&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+If my open-source contributions, repositories, or projects have helped you or caught your eye, consider supporting my journey!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
