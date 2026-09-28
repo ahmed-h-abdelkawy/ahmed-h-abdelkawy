@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmed Hossam
 
-### Flutter Mobile Application Developer | Software Engineer
+### Flutter Mobile Application Developer
 
 Empowering users, building scalable cross-platform systems, and translating complex requirements into clean, production-ready mobile applications. 🚀
 
