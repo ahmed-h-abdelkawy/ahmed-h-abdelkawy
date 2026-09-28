@@ -34,22 +34,3 @@ Empowering users, building scalable cross-platform systems, and translating comp
 * **[News App](https://github.com/ahmed-h-abdelkawy/news-app):** Created using Feature-First Clean Architecture, integrating NewsAPI via Retrofit & Dio, with Cubit for state management and real-time search.
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-h-abdelkawy&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-h-abdelkawy&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### ☕ Support My Work
-
-If my open-source contributions, repositories, or projects have helped you or caught your eye, consider supporting my journey!
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
