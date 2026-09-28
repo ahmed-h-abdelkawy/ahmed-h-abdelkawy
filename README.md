@@ -33,4 +33,3 @@ Empowering users, building scalable cross-platform systems, and translating comp
 * **[Food Delivery App (Foodak)](https://github.com/ahmed-h-abdelkawy/foodak-food-delivery-app):** Developed a responsive cross-platform food delivery app focused on smooth user navigation and clean UI components.
 * **[News App](https://github.com/ahmed-h-abdelkawy/news-app):** Created using Feature-First Clean Architecture, integrating NewsAPI via Retrofit & Dio, with Cubit for state management and real-time search.
 
----
